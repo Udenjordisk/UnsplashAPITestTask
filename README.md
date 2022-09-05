@@ -3,6 +3,8 @@
 
 ![Экран 1](https://user-images.githubusercontent.com/106689083/188472656-cec801d4-ab5a-487b-b7b3-3693fd4f3ff9.jpg)
 ![Монтажная область 1](https://user-images.githubusercontent.com/106689083/188475708-e7136db6-4309-4e5e-ab9e-0a75a11fdcd1.jpg)
+![Монтажная область 2](https://user-images.githubusercontent.com/106689083/188491174-3469e7e8-03d6-4d27-be8d-0a21ded15d00.jpg)
+
 
 General
 
